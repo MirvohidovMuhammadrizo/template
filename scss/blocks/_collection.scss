@@ -1,0 +1,40 @@
+.collection-section{
+    background-color: rgba(244,244,235,255);
+}
+.collection {
+    h2{
+        font-family: Roboto;
+font-size: 50px;
+font-weight: 700;
+line-height: 58.59px;
+text-align: center;
+margin-top: 70px;
+margin-bottom: 80px;
+
+    }
+}
+.collection-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.collection-left {
+}
+.collection-right {
+    width: 453px;
+    h3{
+        font-family: Roboto;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 56.25px;
+    text-align: left;
+    }
+    p{
+        font-family: Roboto;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+    
+    }
+}
